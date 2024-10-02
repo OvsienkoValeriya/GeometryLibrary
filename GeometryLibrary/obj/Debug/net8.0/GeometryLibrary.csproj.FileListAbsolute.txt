@@ -1,0 +1,11 @@
+/Users/valeria/RiderProjects/GeometryLibrary/GeometryLibrary/bin/Debug/net8.0/GeometryLibrary.deps.json
+/Users/valeria/RiderProjects/GeometryLibrary/GeometryLibrary/bin/Debug/net8.0/GeometryLibrary.dll
+/Users/valeria/RiderProjects/GeometryLibrary/GeometryLibrary/bin/Debug/net8.0/GeometryLibrary.pdb
+/Users/valeria/RiderProjects/GeometryLibrary/GeometryLibrary/obj/Debug/net8.0/GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeria/RiderProjects/GeometryLibrary/GeometryLibrary/obj/Debug/net8.0/GeometryLibrary.AssemblyInfoInputs.cache
+/Users/valeria/RiderProjects/GeometryLibrary/GeometryLibrary/obj/Debug/net8.0/GeometryLibrary.AssemblyInfo.cs
+/Users/valeria/RiderProjects/GeometryLibrary/GeometryLibrary/obj/Debug/net8.0/GeometryLibrary.csproj.CoreCompileInputs.cache
+/Users/valeria/RiderProjects/GeometryLibrary/GeometryLibrary/obj/Debug/net8.0/GeometryLibrary.dll
+/Users/valeria/RiderProjects/GeometryLibrary/GeometryLibrary/obj/Debug/net8.0/refint/GeometryLibrary.dll
+/Users/valeria/RiderProjects/GeometryLibrary/GeometryLibrary/obj/Debug/net8.0/GeometryLibrary.pdb
+/Users/valeria/RiderProjects/GeometryLibrary/GeometryLibrary/obj/Debug/net8.0/ref/GeometryLibrary.dll

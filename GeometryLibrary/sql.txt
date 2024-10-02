@@ -1,0 +1,9 @@
+SELECT 
+    p.Product AS 'Имя продукта',
+    c.Category AS 'Имя категории'
+FROM 
+    Products as p
+LEFT JOIN 
+    Categories as c 
+    ON p.ProductId = c.ProductId
+
